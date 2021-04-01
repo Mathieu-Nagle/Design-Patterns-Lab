@@ -1,5 +1,3 @@
-package DesignPatternsLab;
-
 public class Computer implements ComputerPart {
 	ComputerPart[] parts;
 	public Computer(){
